@@ -19,4 +19,11 @@ if Motor2== 0:
     
     
     
+    #Programa Motor3
+
+if Motor3== 90:
+    print("correcto en 90°")
+if Motor3== 270:
+    print("correcto en 270°")
+    
     
